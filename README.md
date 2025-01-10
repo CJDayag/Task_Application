@@ -1,3 +1,34 @@
+# Task Management App
+
+A modern, responsive task management application built with Next.js that helps you organize and track your daily tasks efficiently.
+
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/dashboard-light.png" alt="Dashboard Light Mode" width="600"/>
+  <p><em>Dashboard - Light Mode</em></p>
+  
+  <img src="screenshots/dashboard-dark.png" alt="Dashboard Dark Mode" width="600"/>
+  <p><em>Dashboard - Dark Mode</em></p>
+  
+  <img src="screenshots/task-creation.png" alt="Task Creation Modal" width="600"/>
+  <p><em>Task Creation Interface</em></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
